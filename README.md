@@ -1,6 +1,5 @@
 # Portfolio
 
-URL : https://willymaillot87.github.io/portfolio/
 
 ### About Me
 
