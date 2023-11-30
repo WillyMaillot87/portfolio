@@ -14,6 +14,10 @@ I am now ready to contribute to this exciting sector!
 
 ### My Projects
 
+- **Local Conversational Bot** :
+    In this project, I have implemented a conversational chatbot capable of running locally on small machines. To achieve this, I leveraged a relatively lightweight pre-trained LLM model : Blenderbot with 400 million parameters. I used the Transformers library from Hugging Face for the processing of inputs and outputs. The graphical interface was built using Streamlit. Feel free to test it locally on your machine. 
+    <br> Here is the link to the GitHub project: https://github.com/WillyMaillot87/local_chatbot 
+
 - **London Fire Brigade Response Time** :
     The objective of this project is to analyze and estimate the response times and mobilization of the London Fire Brigade. The London Fire Brigade is the busiest fire and rescue service in the United Kingdom and one of the largest firefighting and rescue organizations in the world.<br> See it here : https://github.com/WillyMaillot87/projet_mlops_pompiers
 
